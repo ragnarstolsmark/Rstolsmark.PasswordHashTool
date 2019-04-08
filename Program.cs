@@ -8,7 +8,7 @@ namespace Rstolsmark.PasswordHashTool
         {
             if(args.Length == 0){
                 Console.WriteLine("\nUsage:");
-                Console.WriteLine("To generate a salted hashed passwordsudo:");
+                Console.WriteLine("To generate a salted hashed password:");
                 Console.WriteLine("passwordhasher <password>");
                 return;
             }
